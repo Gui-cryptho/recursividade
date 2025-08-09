@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1754758260 source:c:\users\guilh\onedrive\documents\new folder\ides\codeblocks\c-udemy\ciii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"recursividade.h"
+
+1754757717 c:\users\guilh\onedrive\documents\new folder\ides\codeblocks\c-udemy\ciii\recursividade.h
+

@@ -1,7 +1,9 @@
 # Lista de Exercícios de Recursão em C
-
+**Dupla:**
 **Aluno:** Guilherme de Sousa Brito  
 **RA:** 2576627
+**Aluno:** Leonardo José Reis Pinto 
+**RA:** 2554097
 
 Esta lista contém exercícios que envolvem o uso de funções recursivas em linguagem C.
 
